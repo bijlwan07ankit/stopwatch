@@ -1,11 +1,13 @@
-
 import './App.css';
+import Watch from "./Component/Watch";
 
 function App() {
+ 
   return (
     <>
-    <h2>StopWatch</h2></>
-  );
+    <Watch />
+</>
+);
 }
 
 export default App;
